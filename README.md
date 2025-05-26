@@ -1,16 +1,21 @@
-## Hi there 👋
+# नमस्ते! मैं सुनिल  संजय जाधव हूँ
 
-<!--
-**sj842161/sj842161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+मैं एक छात्र/डिवेलपर हूँ जो coding और projects में रुचि रखता हूँ।  
+मैं HTML, CSS, JavaScript, c ,c++  सीख रहा हूँ।  
 
-Here are some ideas to get you started:
+## मेरी skills  
+- HTML, CSS, JavaScript  
+-  c Programming  
+- c++ Programming
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## मेरा लक्ष्य  
+मुझे web development और software development में महारत हासिल करनी है।  
+मैं नए प्रोजेक्ट्स बनाकर सीखना चाहता हूँ और freelancing करना चाहता हूँ।
+
+## संपर्क करें  
+- ईमेल: aniljadhav34g57@gmail.com
+- LinkedIn:  https://www.linkedin.com/in/sunil-j-42b292368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- YouTube: https://www.youtube.com/@codewithsunil-k3o
+
+धन्यवाद!
